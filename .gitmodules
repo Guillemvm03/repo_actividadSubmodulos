@@ -1,0 +1,6 @@
+[submodule "packages/server_submodule"]
+	path = packages/server_submodule
+	url = https://github.com/Guillemvm03/repo_back_actividadesSubmodulos.git
+[submodule "packages/client_submodule"]
+	path = packages/client_submodule
+	url = https://github.com/Guillemvm03/repo_front_actividadesSubmodulos.git
